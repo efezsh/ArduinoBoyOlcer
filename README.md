@@ -23,6 +23,7 @@ Mini Breadboard
 Devre Şeması (16x2 i2c-LCD Ekran ile):
 ---
 <img src="https://github.com/efezsh/ArduinoBoyOlcer/blob/main/BoyOlcer-DevreSemasi.png?raw=true">
+
 Devre Şeması (16x2 LCD Ekran ile):
 ---
 <img src="https://github.com/efezsh/ArduinoBoyOlcer/blob/main/BoyOlcer-DevreSemasi2.png?raw=true">
