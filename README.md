@@ -6,7 +6,7 @@ Gereken Malzemeler:
 ```
 Arduino Uno/Nano
 HC-SR04 Ultrasonik Sensör
-16x2 LCD i2c Ekran (Normal LCD Ekranda Kullanılabilir.)
+16x2 LCD i2c Ekran (Normal LCD Ekranda Kullanılabilir. Normal LCD için kodlar ve devre şeması yakında eklenecektir.)
 8 Adet Dişi-Erkek Jumper Kablo (Nano ile yapılacaksa 8 adet Dişi-Dişi Jumper Kablo.)
 ```
 Devre Şeması:
