@@ -1,5 +1,8 @@
 # ArduinoBoyOlcer
 Arduino Uno ile 16x2 LCD Ekran ve HC-SR04 Ultrasonik Sensör aracılığıyla Boy Ölçer Yapımı.
+Gereken Kütüphaneler:
+---
+LiquidCrystal ve LiquidCrystal i2c. LiquidCrystal i2c kütüphanesini eklemek için [https://akademi.robolinkmarket.com/16x2-lcd-ekran-ve-i2c-modulu-kullanimi/](https://akademi.robolinkmarket.com/16x2-lcd-ekran-ve-i2c-modulu-kullanimi/) bu linke göz atabilirsiniz.
 
 Gereken Malzemeler (16x2 i2c-LCD Ekran ile):
 ---
