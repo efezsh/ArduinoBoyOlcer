@@ -1,4 +1,4 @@
-# ArduinoBoyOlcer
+# Arduino Boy Ölçer
 Arduino Uno ile 16x2 LCD Ekran ve HC-SR04 Ultrasonik Sensör aracılığıyla Boy Ölçer Yapımı.
 
 Gereken Kütüphaneler:
